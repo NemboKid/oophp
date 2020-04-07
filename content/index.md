@@ -6,22 +6,14 @@ Min me-sida i kursen oophp
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+[FIGURE src="image/me.png?w=200&height=250&a=4,27,11,0&cf&sharpen" class="right"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Så detta är ytterligare en me-sida, denna gång för kursen OOPHP. Kul att köra igång med objektorienterad PHP, testa ramverk och få lite bättre sturktur i sitt kodande. Har länge varit sugen på att testa Symfony eller Laravel, så jag hoppas att Anax ger bra inblick och självförtroende för att på egen hand kunna köra populära ramverk. Vet inte om MVC kommer beröras, men det vore också kul att få ett grepp om så man kodar enligt en standard.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Men det var ju en presentation jag skulle göra. Filip heter jag iallafall, 28 år och boendes i Italien. Har i skrivande stund suttit i karantän i fyra veckor nere på Sicilien, får se om den hunnit släppa när kursen är slut.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Är galen i fotboll. På fritiden sysslar jag annars med sidan www.houseanalytica.com, som jag försöker förbättra och göra något vettigt av i takt med att jag tillskansar mig mer kunskaper. Började bygga med vanlig PHP och SQLite, men funderar på att gå över till MySQL pga lättare att underhålla databaserna.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+Som programmerare gillar jag fullstack och när man få göra lite av varje. Frontend är ganska kul så länge jag har inspiration och idéer om vad jag ska göra, men det är även väldigt roligt att syssla med typ sessioner och annan backend.
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Som kodare tycker jag PHP, Javascript (Node och React) eller Solidity (för blockkedjor) är roligast och det jag vill lägga mest fokus på framgent. Men Python är det jag jobbat mest med, men ju mer webb jag gör, desto längre ifrån det kommer jag. Dock en bra grund och komplement att ha!
